@@ -76,11 +76,11 @@ TECHBRIDGE WEEKLY 技術週刊 http://weekly.techbridge.cc/
 
 ### 阅读来源
 
-* [SOURCE](./source.md)
+* [SOURCE](https://github.com/CtripFE/fe-weekly/issues/3)
 
 * #1
 
 ### TODO
 
-* 自建博客（github page)
+* 自建博客（##)
 * ​
