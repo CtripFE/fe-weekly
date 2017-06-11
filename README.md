@@ -18,12 +18,12 @@
 
 ### 编辑成员
 
-* 沮溺（冉余)
-* 陈炳树
-* 王鹏
-* 邹传勇
-* 风清洋
-* 陈佳文
+* [mirreal](https://github.com/mirreal)
+* [CurtisCBS](https://github.com/CurtisCBS)
+* [WangPeng2017](https://github.com/WangPeng2017)
+* [stoneyong](https://github.com/stoneyong)
+* [StevenX911](https://github.com/StevenX911)
+* [sturloly](https://github.com/sturloly)
 
 ### 玩法
 
@@ -89,6 +89,6 @@ TECHBRIDGE WEEKLY 技術週刊 http://weekly.techbridge.cc/
 
 ### TODO
 
-* 自建博客 @陈炳树
-* 邮件模板 @mirreal
+* 自建博客 [CurtisCBS](https://github.com/CurtisCBS)
+* 邮件模板 [mirreal](https://github.com/mirreal)
 * ​...
