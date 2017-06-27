@@ -20,7 +20,6 @@
 
 * [mirreal](https://github.com/mirreal)
 * [CurtisCBS](https://github.com/CurtisCBS)
-* [WangPeng2017](https://github.com/WangPeng2017)
 * [stoneyong](https://github.com/stoneyong)
 * [StevenX911](https://github.com/StevenX911)
 * [sturloly](https://github.com/sturloly)
@@ -54,6 +53,8 @@
   * 知乎专栏 https://zhuanlan.zhihu.com/itech
 * 邮件组发送（参考 gitlab）
 * 邮编订阅
+
+可使用 [小工具](https://github.com/CtripFE/format-weekly) 来统一格式
 
 ### 业界
 
@@ -89,6 +90,6 @@ TECHBRIDGE WEEKLY 技術週刊 http://weekly.techbridge.cc/
 
 ### TODO
 
-* 自建博客 [CurtisCBS](https://github.com/CurtisCBS)
-* 邮件模板 [mirreal](https://github.com/mirreal)
-* ​...
+* 自建博客 [Jeykell blog](https://github.com/CtripFE/CtripFE.github.io)
+* 邮件专栏模板 [小工具](https://github.com/CtripFE/format-weekly) 
+* ...
