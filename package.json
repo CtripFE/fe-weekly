@@ -18,6 +18,16 @@
   },
   "homepage": "https://github.com/CtripFE/fe-weekly#readme",
   "devDependencies": {
-    "fw2": "^0.3.2"
-  }
+    "fw2": "^0.3.2",
+    "grunt": "^1.0.1",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "hello-else": "^1.0.0"
+  },
+  "bundledDependencies": [
+    "fw2",
+    "hello-else"
+  ]
 }
