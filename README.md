@@ -27,6 +27,7 @@
 * [CurtisCBS](https://github.com/CurtisCBS)
 * [stoneyong](https://github.com/stoneyong)
 * [StevenX911](https://github.com/StevenX911)
+* [Jade](https://github.com/Jade05)
 
 ### 玩法
 
