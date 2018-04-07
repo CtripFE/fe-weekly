@@ -1,9 +1,5 @@
 ## IFT 前端技术周刊
 
-### 微信公众号
-
-![QRCODE](/image/qrcode_for_else.jpg)
-
 ### 周刊格式
 
 > 一个可选的本期概述
