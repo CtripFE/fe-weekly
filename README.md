@@ -9,9 +9,9 @@
 * 团队分享 团队成员的博客、作品、翻译等
 * 本期推荐 主编推选一篇本期最佳
 * 业界动态 主要新闻一类的东西
-* 技术纵横 非前端技术
 * 前端开发 我们的本职工作
-* 实用推荐 更多的是类库、工具以及插件这类推荐
+* 技术纵横 非前端技术
+* 实用工具 更多的是类库、工具以及插件这类推荐
 * 程序人生 涉及程序员的生活、职业等，适合轻松一点的文章
 * 产品设计 目前貌似没有这类
 
@@ -95,6 +95,7 @@ TECHBRIDGE WEEKLY 技術週刊 http://weekly.techbridge.cc/
 
 ### TODO
 
-* 自建博客 [Jeykell blog](https://github.com/CtripFE/CtripFE.github.io)
-* 邮件专栏模板 [小工具](https://github.com/CtripFE/format-weekly) 
+* 自建博客 [Jeykell blog](https://github.com/CtripFE/CtripFE.github.io) ✓
+* 邮件专栏模板 [小工具](https://github.com/CtripFE/format-weekly) ✓
+* 小程序
 * ...
