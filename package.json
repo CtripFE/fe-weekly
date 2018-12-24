@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "fw2 blog -i weekly/2017-05-12.md",
-    "build": "fw2 f -o build -i weekly-2018/2018-09-03.md"
+    "build": "fw2 f -o build -i weekly-2018/2018-12-24.md"
   },
   "repository": {
     "type": "git",
