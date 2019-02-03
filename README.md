@@ -24,6 +24,10 @@
 * [stoneyong](https://github.com/stoneyong)
 * [StevenX911](https://github.com/StevenX911)
 * [Jade](https://github.com/Jade05)
+* [Yunin](https://github.com/Yunin)
+* [BetaMee](https://github.com/BetaMee)
+* [Hental](https://github.com/Hental)
+* [tianlmn](https://github.com/tianlmn)
 
 ### 玩法
 
