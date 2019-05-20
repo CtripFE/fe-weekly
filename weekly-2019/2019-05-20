@@ -1,0 +1,73 @@
+# ELSE 技术周刊(2019.05.20期)
+## 本期推荐
+
+### [除代码之外，程序员还有哪些能力也非常的关键？](https://mp.weixin.qq.com/s/tblYdNLixwQa-rLSeKPbAA)
+
+程序员不应该只会写代码，职业规划、自我成长、投资同样重要。
+
+## 业界动态
+
+### [什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s/3ezqYqumuUzzTVA9uJfkQw)
+
+来自谷歌 I/O 大会的 Chrome 的新特性。
+
+## 技术纵横
+
+### [12 张图搞懂链表相关算法](https://mp.weixin.qq.com/s/KkAk1LetE4nWBlO0bDiZVA)
+
+学习算法是一个枯燥的过程，图片能够更加直观的解释和展示算法结构。
+
+### [AMis](https://github.com/baidu/amis)
+ 来试试用我们开源的 amis 轻松配出来，无需写代码就能做出各种各样的后台页面。一种页面渲染器，可以直接基于特定格式的 JSON 配置将页面渲染出来，结合业务方 API 可快速完成各类管理页面的开发。
+
+### [API 设计最佳实践的思考](https://mp.weixin.qq.com/s/qWrSyzJ54YEw8sLCxAEKlA)
+API 是模块或者子系统之间交互的接口定义。好的系统架构离不开好的 API 设计，而一个设计不够完善的 API 则注定会导致系统的后续发展和维护非常困难。
+
+### [最优控制：LQR](https://juejin.im/post/5cdfe49c6fb9a07eee5e9de6)
+
+在这篇文章中讨论最优控制，讨论性线性二次调节器。
+
+### [线程池没你想的那么简单](https://juejin.im/post/5ce1f3b6f265da1ba2522f62)
+
+自己动手写一个五脏俱全的线程池，同时会了解到线程池的工作原理，以及如何在工作中合理的利用线程池。
+
+### [Hollis原创|不了解这12个语法糖，别说你会Java](https://juejin.im/post/5cd8c5e6f265da03555c9d79)
+本文从 Java 编译原理角度，深入字节码及 class 文件，抽丝剥茧，了解 Java 中的语法糖原理及用法，帮助大家在学会如何使用 Java。
+
+### [处理网络超时问题的最佳实践](https://zhuanlan.zhihu.com/p/65684397?utm_source=wechat_session&utm_medium=social&utm_oi=682604037623386112)
+
+在本文里就分析下如何来分辨和排查云基础设施层和业务软件层日志页面超时的根本原因。
+
+## 前端开发
+
+### [每个前端工程师都应该了解的图片知识](https://juejin.im/post/5ce189e051882525ce3930ee)
+
+据统计，60% 的网站流量均来自网站图片，可见对图片合理优化可以大幅影响网站流量，减小带宽消耗和服务器压力。
+
+### [[译] 如果可以，永远不要在生产中直接运行](https://juejin.im/post/5cdeb1306fb9a07efd46dbe5)
+
+标题是原作者起的，其实应该叫，生产环境 Node 运行实践~~~
+
+### [JavaScript数据结构与算法-String-(leetcode原题)](https://segmentfault.com/a/1190000019231510)
+
+遇事百度或者谷歌总是最有效率的，但有时也要停下来看看，走走停停不如定定。
+
+## 程序人生
+
+### [25 岁，毕业写前端的这三年](https://juejin.im/post/5cd8c361f265da03a33c5521)
+
+一个专业前端工作和生活的反思，很精彩的三年。
+
+> ELSE 技术周刊由 [IFT小组](https://github.com/CtripFE) 出品，汇聚一周好文章，[周刊原文](https://zhuanlan.zhihu.com/p/66335087)。本期编辑：
+> 
+> [@Yunin](https://github.com/Yunin) 笃学慎思敏行
+> 
+> [@BetaMee](https://github.com/BetaMee) 探索这个世界
+> 
+> [@Hental](https://github.com/Hental) 生命在于折腾
+> 
+> [@tianlmn](https://github.com/tianlmn) 追求卓越
+>
+> 感谢以下同学荐稿：
+> 
+> [@mirreal](https://github.com/mirreal)
