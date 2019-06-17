@@ -1,0 +1,78 @@
+# ELSE 技术周刊(2019.06.17期）
+
+## 本期推荐
+
+### [让你的网页更丝滑（全）](https://zhuanlan.zhihu.com/p/67728054?utm_source=wechat_session&utm_medium=social&s_r=0)
+
+别人中专毕业就工作了你在干嘛~
+
+别人24岁就出书了你又在干嘛~~
+
+## 业界动态
+
+### [打败200万对手，斩获2019苹果设计大奖的APP有何独特之处？](https://www.uisdc.com/apple-design-awards-9apps)
+
+如何在  200 万个应用中在 WWDC 大会上获得 Apple Design Awards  奖项。
+
+###  [开发者吐槽：谷歌引入Web新标准的方式过于专横 ](https://mp.weixin.qq.com/s/aeh8GnODZqhO1dEUsorHHA)
+
+Google: 意见社区你随便提，听了算我输。
+
+## 技术纵横
+
+### [从软件搬砖师到软件架构师，程序员的架构师之路](https://mp.weixin.qq.com/s/9rc-AShhvv93nm0G759dIA)
+
+一篇技术分享，关于程序员的架构师之路。
+
+### [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
+
+多站点单点登录主要涉及到流程，同步登录态，跨域等问题，本文提供了一种解决方案。
+
+## 前端开发
+
+### [尤雨溪：Vue Function-based API RFC ](https://zhuanlan.zhihu.com/p/68477600)
+
+这是 vue 3.0 最重要的 RFC，带来了类似于 React Hooks 的使用函数开发组件的体验。
+
+### [前端困境与挑战：组织篇](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652976688&idx=1&sn=c9f4c3146cd9417410668937a6d94497)
+
+在上一篇文章《前端困境：个人篇》中，我们讨论了关于个人在前端领域遇到的一些问题和挑战。在这一篇文章中，我们将关注于组织中的前端技术挑战。
+
+### [WWDC2019之SwiftUI](https://juejin.im/post/5cf5f4596fb9a07ede0b2fa1)
+SwiftUI基础教程。
+
+### [React的未来：与Suspense共舞](https://mp.weixin.qq.com/s/9sizcTiELffLHdAyWYwo_w)
+
+react一直在进化，期待新的功能，suspense和cache一定会给前端的开发带来新的玩法。
+
+### [【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s/jHSk4UeNmQ1ih_F5vs0jdw)
+
+关于前端容错处理的技术细节。
+
+### [为什么 ['1', '7', '11'].map(parseInt) 返回 [1, NaN, 3]](https://juejin.im/post/5d0202da51882546dd10087b)
+
+类似于委托，map的第一个形参是一个接受三个参数，返回一个新元素的委托类型，第二个形参是函数的上下文指针。
+
+### [【前端词典】一文读懂单页应用和多页应用的区别](https://juejin.im/post/5cffa35a6fb9a07ec63b0bb0)
+
+单页和多页，路由差别很大。
+
+### [Flutter 您需要知道的知识点](https://mp.weixin.qq.com/s/iWQwjC8mEWSX9TNz_hn6rw)
+
+Flutter 是一套高效的跨平台免费开源 SDK，可以帮助开发者用一套代码同时在 Android 和 iOS 上构建媲美原生体验的精良应用。
+
+
+
+> ELSE 技术周刊由 [IFT小组](https://github.com/CtripFE) 出品，汇聚一周好文章，[周刊原文](https://zhuanlan.zhihu.com/p/69444836)。本期编辑：
+> 
+> [@Yunin](https://github.com/Yunin) 笃学慎思敏行
+> 
+> [@BetaMee](https://github.com/BetaMee) 探索这个世界
+> 
+> [@Hental](https://github.com/Hental) 生命在于折腾
+> 
+> [@tianlmn](https://github.com/tianlmn) 追求卓越
+>
+> 感谢以下同学荐稿：[@mirreal](https://github.com/mirreal)
+>
+> [点击这里](https://github.com/CtripFE/fe-weekly/issues) 向我们推荐你读到的好文章，期待你们。
