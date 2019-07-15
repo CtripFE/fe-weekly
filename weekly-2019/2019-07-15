@@ -1,0 +1,74 @@
+# ELSE 技术周刊(2019.07.15期）
+
+## 本期推荐
+
+### [A Look at JavaScript’s Future](https://www.toptal.com/javascript/predicting-javascript-future)
+
+JavaScript 的世界仍然在高速发展，ES6、TypeScript、 WebAssembly 带来了更好的性能和更安全的代码，WebXR、Server-side JavaScript、NodeJS 让前端的领域更加广阔。
+
+## 业界动态
+
+### [Lodash 库爆出严重安全漏洞，波及 400 万 + 项目](https://www.infoq.cn/article/k7C-ZvXKOHh284ToEy9K)
+
+lodash 的 defaultsDeep， merge 方法可能修改原型链，造成原型污染，可以升级到最新版本以解决该问题。
+
+
+## 技术纵横
+
+### [基于 MySQL Binlog 的 Elasticsearch 数据同步实践](https://mp.weixin.qq.com/s/EJP2KC2HZUQwLzF1O6FLcA)
+数据同步Elasticsearch类似业务场景提供参考。
+
+### [MongoDB锁事](https://mp.weixin.qq.com/s/bVvHYohHRt8-y7POevyMMA)
+MongoDB本身只提供Global,Database,Collection三个级别的锁。
+
+
+## 前端开发
+
+### [用JavaScript带你体验V8引擎解析字符串过程](https://zhuanlan.zhihu.com/p/73013409)
+
+本篇文章讲解了 V8 引擎如何进行 AST，把字符转化成一个个实际的对象。
+
+### [前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
+
+关于各类前端知识的查漏补缺
+
+### [【第1667期】技术路线：前端开发已进入深水区](https://mp.weixin.qq.com/s/Ad5DMl6kpF5ZSJawqNNPLg)
+
+红利已逝，今非昔比，在前端越发复杂的情况，需要我们工程师磨练什么样的技能呢
+
+### [使用SplitChunksPlugin插件进行代码分割](https://segmentfault.com/a/1190000016623314)
+
+每当你对某一文件做点改变，访问你站点的人们就要重新下载它。然而依赖却很少变动。如果你将（这些依赖）分离成单独的文件，访问者就无需多次重复下载它们了。
+
+### [单标签！纯CSS实现动态晴阴雨雪](https://juejin.im/post/5d2716ab5188257b775d35ba)
+
+前端们的数学是真的好啊~
+
+### [嘿，不要给 async 函数写那么多 try/catch 了](https://juejin.im/post/5d25b39bf265da1bb67a4176)
+
+如何优雅地捕获异步异常？
+
+
+
+## 新工具
+
+### [openemu](http://openemu.org/)
+
+一个可以玩各种古老红白机游戏的模拟器，mac上可用。
+
+![image](https://user-images.githubusercontent.com/17882639/61185239-93170300-a689-11e9-806a-6dbb80e6270b.png)
+
+
+> ELSE 技术周刊由 [IFT小组](https://github.com/CtripFE) 出品，汇聚一周好文章，[周刊原文](https://zhuanlan.zhihu.com/p/73606198)。本期编辑：
+> 
+> [@Yunin](https://github.com/Yunin) 笃学慎思敏行
+> 
+> [@BetaMee](https://github.com/BetaMee) 探索这个世界
+> 
+> [@Hental](https://github.com/Hental) 生命在于折腾
+> 
+> [@tianlmn](https://github.com/tianlmn) 追求卓越
+>
+> 感谢以下同学荐稿：[@mirreal](https://github.com/mirreal)
+>
+> [点击这里](https://github.com/CtripFE/fe-weekly/issues) 向我们推荐你读到的好文章，期待你们。
